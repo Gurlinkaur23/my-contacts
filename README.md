@@ -9,4 +9,4 @@ A simple JavaScript application for managing contacts with basic input validatio
 - **Display Contacts:** Display the list of contacts with their information.
 - **Delete Contacts:** Remove contacts from the list.
 
-Click [here]() to see the live demonstration of the project.
+Click [here](https://gurlinkaur23.github.io/my-contacts/) to see the live demonstration of the project.
